@@ -1,0 +1,27 @@
+CRIM：城镇犯罪率（Crime Rate）- 指定城镇的犯罪率。
+
+ZN：住宅用地比例（Residential Land Proportion）- 指定地块上住宅用地的比例。
+
+INDUS：非零售业务用地比例（Non-Retail Business Land Proportion）- 指定地块上非零售业务用地的比例。
+
+CHAS：查尔斯河虚拟变量（Charles River Dummy Variable）- 表示是否临近查尔斯河，如果临近则取值为1，否则为0。
+
+NOX：一氧化氮浓度（Nitrogen Oxide Concentration）- 指定地区的一氧化氮浓度。
+
+RM：每个住宅的平均房间数（Average Number of Rooms per Dwelling）- 指定地区的住宅平均拥有的房间数。
+
+AGE：自住房屋的比例（Proportion of Owner-Occupied Units Built Before 1940）- 指定地区自住房屋的比例，且建于1940年之前。
+
+DIS：到就业中心的加权距离（Weighted Distance to Employment Centers）- 指定地区到就业中心的加权距离。
+
+RAD：径向公路可达性指数（Accessibility to Radial Highways Index）- 指定地区的径向公路可达性指数。
+
+TAX：房产税率（Property Tax Rate）- 指定地区的房产税率。
+
+PTRATIO：学生与教师的比例（Pupil-Teacher Ratio）- 指定地区的学生与教师的比例。
+
+B：黑人比例（Proportion of Residents of African American Descent）- 指定地区的黑人居民比例。
+
+LSTAT：低社会经济地位人口比例（Percentage of Population with Lower Socioeconomic Status）- 指定地区低社会经济地位人口的比例。
+
+MEDV：房屋的中位数价值（Median Value of Owner-Occupied Homes）- 指定地区自住房屋的中位数价值（目标变量，即房价）。
